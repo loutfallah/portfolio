@@ -7,7 +7,7 @@
   
   
   
-      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/style404.css">
 
   
 </head>
@@ -51,8 +51,7 @@
   <sub>Page Not Found!</sub>
   <div id="form">
     <form>
-      <input type="text" name="lastname">
-      <button type="Submit">Search Again</button>
+      <a type="Submit" href="../index.php" class="button1">back to home</a>
     </form>
   </div>
 </body>

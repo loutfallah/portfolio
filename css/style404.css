@@ -8,6 +8,20 @@
   text-shadow: 15px 12.5px 20px #b3b3b3;
   width: 130px;
 }
+.button1 {
+  background-color: #007FB2;
+  color: black;
+  border: 2px solid #4CAF50; /* Green */
+  padding: 10px;
+  border-radius: 15px;
+}
+.button1:hover {
+  background-color: #4CAF50;
+  color: black;
+ 
+  padding: 10px;
+  border-radius: 15px;
+}
 
 sub {
   padding-left: 13px;
@@ -70,4 +84,4 @@ sub {
 }
 
 @media (max-width: 450px) {
-  svg {
+  svg }

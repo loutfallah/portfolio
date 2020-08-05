@@ -26,9 +26,9 @@ define("_H3SER_6", "ONLINE SUPPORT");
 define("_TextSER_1", "I'm a developer, so I know how to create your Application to run across devices using the latest technologies available.");
 define("_TextSER_2", "I'm a developer, so I know how to create your website to run across devices using the latest technologies available.");
 define("_TextSER_3", "I like to keep it simple. My goals are to focus on typography, content and conveying the message that you want to send.");
-define("_TextSER_4", "With supporting text below as a natural lead-in to additional content.");
-define("_TextSER_5", "With supporting text below as a natural lead-in to additional content.");
-define("_TextSER_6", "With supporting text below as a natural lead-in to additional content.");
+define("_TextSER_4", "I can write the code smoothly, and this is a reference to the number of hours worked by the computer.");
+define("_TextSER_5", "My goals are to focus on typography, content and conveying the message that you want to send.");
+define("_TextSER_6", "I am online every day, so I can help you with your site problems. You can contact me.");
 
 /* PORTFOLIO */
 define("_H1Portfolio", "MY <span>PORTFOLIO</span>");

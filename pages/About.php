@@ -1,7 +1,7 @@
 
 <section  class="skills" id="ABOUT">
 <div class="container">
-    <h1 class="h1 text-center"><?= _H1skills ?></h1>
+    <h1 class="h1 text-center mt-3"><?= _H1skills ?></h1>
   <div class="row">
     <div class="col-sm-6 my-auto A-left">
       <p><?= _skillText ?></p>
